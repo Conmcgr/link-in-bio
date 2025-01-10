@@ -1,3 +1,3 @@
-# static-html-template
+# Link-in-bio App Development Project
 
-Use this template to create static HTML websites and deploy them on Render.
+Simple LinkTree-esque link-in-bio project
